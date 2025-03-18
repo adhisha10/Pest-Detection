@@ -1,0 +1,21 @@
+Pest,Pesticide,Disease,Herbicide
+Aphids,"Imidacloprid, Neem Oil",Potato Early Blight,"Metribuzin, Pendimethalin"
+Thrips,Spinosad,Tomato Early Blightt,Glyphosate (Pre-plant application)
+Leafhoppers,Pyrethroids (Lambda-cyhalothrin),Pepper Bell Bacterial Spot,Not applicable
+Whiteflies,"Pyriproxyfen, Buprofezin",Tomato Yellow Leaf Curl Virus,Paraquat (Desiccant herbicide)
+Flea Beetles,Carbaryl,Tomato Bacterial Spot,"Metolachlor, Pendimethalin"
+Thrips,"Spinosad, Abamectin",Tomato Target Spot,Fluazifop-P-butyl (for grass control)
+Aphids,Imidacloprid,Tomato Mosaic Virus,Not applicable
+Thrips,Spinosad,Tomato Early Blight,"S-Metolachlor, Trifluralin"
+Windborne Spores,Spinosad (for thrips),Tomato Late Blight,Glyphosate
+Fungal Spores,"Chlorothalonil, Copper-based sprays",Tomato Leaf Mold,Rimsulfuron
+Two-Spotted Spider Mite,"Abamectin, Neem Oil",Tomato Spider Mites,Not applicable
+Septoria Leaf Spot,"Pyrethroids (for aphids), Chlorothalonil",Tomato Septoria Leaf Spot,Not applicable
+Cutworms,"Bacillus thuringiensis (Bt), Permethrin",Potato Damping-Off,Sulfentrazone
+Colorado Potato Beetle,"Spinosad, Cypermethrin",Potato Blackleg,Metolachlor
+Wireworms,"Chlorpyrifos, Bifenthrin",Potato Common Scab,Not applicable
+Nematodes,"Abamectin, Oxamyl",Tomato Root-Knot Nematode,Not applicable
+White Mold Spores,"Boscalid, Fluopyram",Potato White Mold,Imazethapyr
+Grasshoppers,"Lambda-cyhalothrin, Malathion",Tomato Anthracnose,Fluazifop-P-butyl
+Hornworms,"Bacillus thuringiensis (Bt), Spinosad",Tomato Wilt,Rimsulfuron
+Leaf Miners,"Abamectin, Spinosad",Tomato Leaf Curl,Not applicable
